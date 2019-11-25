@@ -29,6 +29,10 @@
     font-size: 20px;
 }
 
+.body-container {
+    height: 100vh;
+}
+
 body {
     background: linear-gradient(#E6D5D5, #E98383);
 }
